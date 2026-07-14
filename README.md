@@ -11,7 +11,7 @@ The **Sales Performance Dashboard** is an interactive Business Intelligence dash
 exp 5
 ```
 
-<img width="1162" height="652" alt="exp 5" src="https://github.com/user-attachments/assets/f84b8d82-eb12-46c6-91cd-682bb48ebc10" />
+<img width="1162" height="652" alt="exp 5" src="https://github.com/user-attachments/assets/e21c08c3-18ce-4ad3-bb17-4592dbffcf22" />
 
 
 ## Project Objectives
